@@ -1,0 +1,4 @@
+interface:
+  display_name: "万能拆解图提示词"
+  short_description: "把产品拆解成可用于电商详情页的商品图和说明信息图"
+  default_prompt: "请使用 $universal-exploded-view-prompt，先判断知识拆解或电商商品图模式，选择平台比例与视觉风格，再输出资产规划、拆解规格表、图生图提示词和验收清单。"
